@@ -1,0 +1,76 @@
+.header {
+   background-color: #FFFFFF;
+}
+.accent {
+    color: #4D5AE5;
+}
+.site-nav .main-link {
+    color: 2E2F42;
+}
+.site-nav .link{
+    text-align: top left;
+}
+.link {
+    text-decoration: none; 
+} 
+.adress .link { 
+color: #434455;
+text-decoration: none; 
+}
+body {
+font-family: "Roboto", sans-serif;
+color:#434455;
+}
+ul, ol {
+    list-style-type:none
+}
+.title {
+    color: #2E2F42;
+    text-align: center;
+}
+.section {
+    background-color: #2E2F42;
+}
+.main-title {
+    color: #ffff;
+    text-align: center;
+}
+.section-2 {
+    background-color: #F4F4FD;
+    text-align: center;
+}
+
+.button {
+    color: #ffff;
+    text-align: center;
+    background-color: #4D5AE5;
+    cursor: pointer;
+}
+
+.section-1 .section-3{
+    text-align: left;
+}
+.section-text {
+color: #434455;
+font-weight: 264;
+}
+.section-title { 
+color: #2E2F42;
+font-weight: 264;
+}
+
+.footer {
+    color: #F4F4FD;
+    background-color: #2E2F42}
+
+    .footer .main-link {
+    color: #F4F4FD;
+    }
+    .footer .section-text {
+        color: #F4F4FD;
+    }
+    .main-link{ 
+        text-decoration: none;
+        text-align: left;
+        font-weight: 700;
+    }
