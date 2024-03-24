@@ -32,9 +32,12 @@
     text-decoration: underline;
     color: #404BBF;}
 
+.adress{
+    font-style: normal;
+}
 .adress .link { 
 color: #434455;
-font-style: normal;
+
 text-decoration: none; 
 font-size: 16px;
 line-height: 150%;
@@ -95,7 +98,7 @@ ul, ol {
     letter-spacing: 0.02em;
     line-height: 111%;
     text-align: center;
-   
+    text-transform: capitalize;
 }
 
 .team-card{
