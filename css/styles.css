@@ -1,43 +1,61 @@
 .header {
-   background-color: #FFFFFF;
-}
+   background-color: #FFFFFF;}
+
 .accent {
+    color: #2E2F42;}
+
+.logo {
+    font-family: Raleway, sans-serif;
     color: #4D5AE5;
-}
-.site-nav .main-link {
-    color: 2E2F42;
-}
+    text-decoration: none;
+    text-align: left;
+    font-weight: 700;}
+
 .site-nav .link{
     text-align: top left;
-}
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 1.333;
+    letter-spacing: 4%;
+    color: #2E2F42;}
+
 .link {
     text-decoration: none; 
-} 
+    color: #434455;}
+
+.link:hover {
+    color: #404BBF;}
+
+.link:focus{
+    text-decoration: underline;}
+
 .adress .link { 
 color: #434455;
-text-decoration: none; 
-}
+text-decoration: none; }
+
+.adress .link:hover{
+    color: #404BBF;}
+
+.adress .link:active{
+    text-decoration: underline;}
+
 body {
-font-family: "Roboto", sans-serif;
-color:#434455;
-}
+    font-family: "Roboto", sans-serif;
+    color:#434455;}
+
 ul, ol {
-    list-style-type:none
-}
-.title {
-    color: #2E2F42;
-    text-align: center;
-}
+    list-style-type:none}
+
 .section {
-    background-color: #2E2F42;
-}
+    background-color: #2E2F42;}
+
 .main-title {
     color: #ffff;
     text-align: center;
-}
-.section-2 {
-    background-color: #F4F4FD;
-    text-align: center;
+    font-weight: 700;
+    font-size: 56px;
+    letter-spacing: 2%;
+    line-height: 1,07;
 }
 
 .button {
@@ -45,32 +63,59 @@ ul, ol {
     text-align: center;
     background-color: #4D5AE5;
     cursor: pointer;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 4%;
+    size: 4px;
+}
+.button:hover{
+    background-color: #404BBF;}
+
+.section-2 {
+    background-color: #F4F4FD;
+    text-align: center;}
+
+.title {
+    color: #2E2F42;
+    text-align: center;
+    font-weight: 700;
+    font-size: 36px;
+    letter-spacing: 2%;
+}
+.team-card{
+    background-color: #FFFFFF;
 }
 
 .section-1 .section-3{
-    text-align: left;
-}
+    text-align: left;}
+
 .section-text {
-color: #434455;
-font-weight: 264;
+    color: #434455;
+    font-size: 12px;
+    line-height: 1.1;
+    letter-spacing: 4%;
+
 }
+
 .section-title { 
-color: #2E2F42;
-font-weight: 264;
+    color: #2E2F42;
+    font-weight: 264;
+    font-weight: 500;
+    font-size: 20px;
+    letter-spacing: 2%;
 }
 
 .footer {
-    color: #F4F4FD;
-    background-color: #2E2F42}
+    background-color: #2E2F42
+}
 
-    .footer .main-link {
-    color: #F4F4FD;
-    }
-    .footer .section-text {
+.footer .accent {
+    color: #F4F4FD}
+    
+.footer .section-text {
         color: #F4F4FD;
-    }
-    .main-link{ 
-        text-decoration: none;
-        text-align: left;
-        font-weight: 700;
+        font-size: 12px;
+        line-height: 1.1;
+        letter-spacing: 4%;
     }
