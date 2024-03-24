@@ -72,8 +72,8 @@ ul, ol {
     cursor: pointer;
     font-weight: 500;
     font-size: 16px;
-    line-height: 1.5;
-    letter-spacing: 4%;
+    line-height: 150%;
+    letter-spacing: 0.04em;
 }
 .button:hover,
 .button:focus{
@@ -119,5 +119,5 @@ ul, ol {
         color: #F4F4FD;
         font-size: 16px;
         line-height: 150%;
-        letter-spacing: 0.02empx;
+        letter-spacing: 0.02em;
     }
