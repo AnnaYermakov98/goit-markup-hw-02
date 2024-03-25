@@ -18,7 +18,7 @@
         text-decoration: none; 
         color: #434455;}
 
-.site-nav .link{
+.site-nav .link {
     font-weight: 500;
     font-size: 16px;
     line-height: 150%;
@@ -28,26 +28,25 @@
 .link:hover {
     color: #404BBF;}
 
-.link:focus{
+.link:focus {
     text-decoration: underline;
     color: #404BBF;}
 
-.adress{
+.adress {
     font-style: normal;
 }
 .adress .link { 
 color: #434455;
-
 text-decoration: none; 
 font-size: 16px;
 line-height: 150%;
 letter-spacing: 0.02em;
 }
 
-.adress .link:hover{
+.adress .link:hover {
     color: #404BBF;}
 
-.adress .link:focus{
+.adress .link:focus {
     text-decoration: underline;
     color: #404BBF;
 }
@@ -85,10 +84,10 @@ ul, ol {
     letter-spacing: 0.04em;
 }
 .button:hover,
-.button:focus{
+.button:focus {
     background-color: #404BBF;}
 
-.section-2 {
+.section-team {
     background-color: #F4F4FD;}
 
 .title {
@@ -101,7 +100,7 @@ ul, ol {
     text-transform: capitalize;
 }
 
-.team-card{
+.team-card {
     background-color: #FFFFFF;}
 
 .section-title { 
